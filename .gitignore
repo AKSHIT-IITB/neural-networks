@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+02_mnist/data/
+03_cifar10_cnn/data/
+*.pt
+train.log
